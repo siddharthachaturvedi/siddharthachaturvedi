@@ -1,37 +1,129 @@
-# Welcome to My GitHub! I'm Siddhartha Chaturvedi 👋
+# Siddhartha Chaturvedi • Strategic AI Visionary
 
-## 🚀 About Me
-- 🎓 I'm currently pursuing a **Bachelor's in Computer Science at BITS Pilani**, rediscovering my passion for coding and tech.
-- 🌟 Simultaneously, I am a **Director for Product Management at Microsoft**, in our Strategic Missions and Technologies space.
-- 🚀 Previously an entrepreneur, with a history of impactful projects in health-tech at Microsoft and running my own startup.
-- 🤖 I'm fascinated by the non-technical implications of technology and how it shapes our lives and societies.
-- 🧑‍💻 Coded on the PeopleSoft platform over 10 years ago, extensively, and GPPDPRUN (a COBOL process) still haunts me in my nightmares.
-- 💬 Hitting refresh on my journey of continuous learning, and will be sharing everything from side projects to academic pursuits.
+> **Former Microsoft Director pioneering post-agentic systems for scientific discovery**
 
-## 📚 What I'm Up To
-- 🔭 Working on projects that blend technology with practical applications.
-- 🌱 Learning new technologies and brushing up on programming skills through my coursework and personal study.
-- 📝 Sharing insights from my "open PhD" (more on that to be updated soon).
-- 🤔 Exploring intersections of technology, ethics, and entrepreneurship.
+[![Live Website](https://img.shields.io/badge/🌐_Live_Website-Visit-blue?style=for-the-badge)](https://siddharthachaturvedi.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/siddharth)
 
-## 💼 Past Highlights
-- 🏢 Contributed to multiple projects at Microsoft, including [Microsoft Premonition](https://microsoft.com/premonition), [AI for Health](https://www.microsoft.com/en-us/research/project/ai-for-health/) aimed at tackling global health challenges.
-- 🌟 Co-founded a startup as part of [MIT's Global Entrepreneurship Bootcamp](https://bootcamp.mit.edu/), focusing on innovative health solutions in rural India in 2014.
-- 📈 Leveraged my MBA from [INSEAD](https://www.insead.edu/bio/siddhartha-chaturvedi-mba15d) to transition from technology to strategic roles, emphasizing product management and cross-functional leadership.
+---
 
-## 🛠 Skills
-- **Programming Languages**: Python, Rust, JavaScript (Refreshing and expanding my knowledge)
-- **Core Skills**: Strategic thinking, cross-cultural communication, organizational behaviour, ethics and AI
+## 🎯 **About**
 
-## 🌐 Me on the Interweb
-- [INSEAD Alumni Story](https://www.insead.edu/bio/siddhartha-chaturvedi-mba15d) - Insights into my MBA journey and its impact.
-- [Democratizing Healthcare with Siddhartha Chaturvedi](https://www.networkcapital.tv/course/democratizing-healthcare-with-siddhartha-chaturvedi) - A course where I discuss the intersection of technology and healthcare.
-- [Live Longer Better](https://www.livelongerbetter.org/siddhartha-chaturvedi-biography) - My vision for health-tech innovation.
-- [NPA Interview](https://www.npa.org/public/interviews/careers_interview_747.cfm) - Interview about my career in technology and innovation and Responsible AI.
-- [Microsoft DevBlogs](https://devblogs.microsoft.com/azuregov/author/sidc/) - Articles I've authored on government technology solutions.
+**Siddhartha Chaturvedi** is a strategic AI visionary and founder currently building the next generation of scientific discovery platforms. As former Director of Product Management at Microsoft Strategic Missions & Technologies, he led AI innovations that touched millions of lives through federal deployments, healthcare breakthroughs, and responsible technology development.
 
-## 📫 How to Reach Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/siddhartha-chaturvedi/)
+### Current Focus
 
-## ⚡ Fun Fact
-- 18 years after beginning my first bachelor's, I've returned to school to pursue a second degree in Computer Science! After all, I didn't have cloud, AI or APIs back then.
+- **Post-agentic systems** for under-represented diseases
+- Building beyond today's Human-AI augmentation toward tomorrow's research acceleration
+- Transforming what-if moments into what's-next realities
+
+---
+
+## 🏆 **Recognition & Achievements**
+
+### **Fast Company's World Changing Idea 2021**
+
+**Microsoft Premonition** - Biothreat detection platform securing multi-million government contracts
+
+### **Research Innovation**
+
+**Biomedical Search Platform** - Advanced search transforming how scientists discover and connect knowledge
+
+---
+
+## 🔬 **Current Investigations**
+
+### **Post-Agentic AI Systems**
+
+Next-generation scientific computing platforms that transcend current agent limitations
+
+### **Scientific Knowledge Graphs**
+
+Reimagining how research connections are discovered and accelerated
+
+### **Public-Private Innovation**
+
+Healthcare and government partnerships through responsible AI governance
+
+---
+
+## 💼 **Advisory & Investment**
+
+- **Limited Partner** • rpv (DeepTech VC)
+- **Advisor** • Loyal VC
+- Available for strategic engagements
+
+---
+
+## 🌐 **Currently Available For**
+
+- **Strategic Advisory**
+- **Keynote Speaking**
+- **Board Positions**
+
+Based between US & Asia • Available for global engagements
+
+---
+
+## 🎨 **Website Technical Details**
+
+This is a refined, minimal portfolio website built with modern web technologies and design principles.
+
+### **Design System**
+
+- **Typography**: Inter + Playfair Display font pairing
+- **Color Palette**: Off-white (#FEFEFE) background with charcoal text hierarchy
+- **Layout**: Responsive grid system with scroll-snapping sections
+- **Interactions**: Subtle animations and smooth transitions
+
+### **Features**
+
+- ✨ **Scroll Snapping**: Each section snaps perfectly to the viewport
+- 📱 **Responsive Design**: Optimized for mobile, tablet, and desktop
+- ♿ **Accessibility**: WCAG compliant with proper focus states
+- 🎭 **Performance**: Optimized fonts, images, and animations
+- 🎨 **Modern CSS**: Custom properties, CSS Grid, and Flexbox
+
+### **Technology Stack**
+
+- **HTML5** - Semantic markup
+- **CSS3** - Modern styling with custom properties
+- **JavaScript** - Progressive enhancement and interactions
+- **Google Fonts** - Inter & Playfair Display typography
+
+### **File Structure**
+
+```text
+├── index.html          # Main page content
+├── styles.css          # Complete styling system
+├── script.js           # Interactive functionality
+├── README.md           # This documentation
+└── SIDDHARTHA CHATURVEDI.pdf  # Resume/CV
+```
+
+---
+
+## 📞 **Connect**
+
+### **Professional Networks**
+
+- **LinkedIn**: [/in/siddharth](https://linkedin.com/in/siddharth)
+- **Resume**: [Download PDF](./SIDDHARTHA%20CHATURVEDI.pdf)
+
+### **Philosophy**
+
+> *"Strategy without execution is hallucination. Execution without strategy is chaos."*
+>
+> — Overheard at INSEAD
+
+## 📋 **Project Information**
+
+- **Repository**: siddharthachaturvedi.github.io
+- **Owner**: siddharthachaturvedi
+- **Branch**: main
+- **Hosting**: GitHub Pages
+- **License**: All rights reserved
+
+---
+
+Last updated: June 2025
