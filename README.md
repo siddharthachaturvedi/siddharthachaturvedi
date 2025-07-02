@@ -61,45 +61,7 @@ Healthcare and government partnerships through responsible AI governance
 - **Keynote Speaking**
 - **Board Positions**
 
-Based between US & Asia • Available for global engagements
-
----
-
-## 🎨 **Website Technical Details**
-
-This is a refined, minimal portfolio website built with modern web technologies and design principles.
-
-### **Design System**
-
-- **Typography**: Inter + Playfair Display font pairing
-- **Color Palette**: Off-white (#FEFEFE) background with charcoal text hierarchy
-- **Layout**: Responsive grid system with scroll-snapping sections
-- **Interactions**: Subtle animations and smooth transitions
-
-### **Features**
-
-- ✨ **Scroll Snapping**: Each section snaps perfectly to the viewport
-- 📱 **Responsive Design**: Optimized for mobile, tablet, and desktop
-- ♿ **Accessibility**: WCAG compliant with proper focus states
-- 🎭 **Performance**: Optimized fonts, images, and animations
-- 🎨 **Modern CSS**: Custom properties, CSS Grid, and Flexbox
-
-### **Technology Stack**
-
-- **HTML5** - Semantic markup
-- **CSS3** - Modern styling with custom properties
-- **JavaScript** - Progressive enhancement and interactions
-- **Google Fonts** - Inter & Playfair Display typography
-
-### **File Structure**
-
-```text
-├── index.html          # Main page content
-├── styles.css          # Complete styling system
-├── script.js           # Interactive functionality
-├── README.md           # This documentation
-└── SIDDHARTHA CHATURVEDI.pdf  # Resume/CV
-```
+Based between US, UK & Asia • Available for global engagements
 
 ---
 
@@ -108,7 +70,6 @@ This is a refined, minimal portfolio website built with modern web technologies 
 ### **Professional Networks**
 
 - **LinkedIn**: [/in/siddharth](https://linkedin.com/in/siddharth)
-- **Resume**: [Download PDF](./SIDDHARTHA%20CHATURVEDI.pdf)
 
 ### **Philosophy**
 
