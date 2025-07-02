@@ -77,14 +77,6 @@ Based between US, UK & Asia • Available for global engagements
 >
 > — Overheard at INSEAD
 
-## 📋 **Project Information**
-
-- **Repository**: siddharthachaturvedi.github.io
-- **Owner**: siddharthachaturvedi
-- **Branch**: main
-- **Hosting**: GitHub Pages
-- **License**: All rights reserved
-
 ---
 
-Last updated: June 2025
+Last updated: July 2025
